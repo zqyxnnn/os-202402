@@ -1,5 +1,5 @@
 #menggunakan base image ubuntu
-From ubuntu : 22.04
+From ubuntu:22.04
 
 #update dan install paket dasar
 Run apt-get update && apt-get install -y \
